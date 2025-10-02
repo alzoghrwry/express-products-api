@@ -15,7 +15,7 @@ Data is stored temporarily **in-memory** (not using a database) to focus on API 
 
 
 ## 📂 Clone the Repository
-git clone https://github.com/your-username/express-products-api.git
+git clone https://github.com/alzoghrwry/express-products-api.git
 cd express-products-api
 ##  Install Dependencies
 node server.js
